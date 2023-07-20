@@ -1,2 +1,2 @@
-# Reaper_SFX_AutoRegion
-根据reaper选中的item，自动创建region，并将粘贴板上的数据输入进region中。
+# Reaper基本
+每个分支代码一个reaper功能。
